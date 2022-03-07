@@ -1,0 +1,46 @@
+body {
+	position: absolute;
+	left: 0%;
+	text-align: center;
+}
+
+
+.container {
+	justify-content: center;
+	align-items: center;
+	display: flex;
+	height: 100%;
+	text-align: center;
+}
+
+
+button {
+	width: 90px;
+	height: 60px;
+	font-size: 30px;
+	background-color: rgb(128, 41, 0);
+	color: honeydew;
+}
+
+
+
+button:hover {
+	background-color: rgb(47, 241, 255);
+	color: grey;
+}
+
+
+h2 {
+	color: black;
+	margin: 0 50px;
+	font-size: 45px;
+}
+
+
+
+h1 {
+	font-size: 35px;
+	color: rgb(73, 128, 0);
+	text-align: center;
+	padding-left: 10%;
+}
